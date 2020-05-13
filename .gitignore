@@ -1,0 +1,11 @@
+secrets.py
+.DS_Store
+.idea/
+bin/
+include/
+lib/
+pyvenv.cfg
+certs/
+__pycache__/
+dict.txt
+dict_old.txt
